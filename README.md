@@ -3,11 +3,13 @@
 
 ## Description
 
-This is an exercise I had to do for my MITxPRO course. I hade to make a toDo list with seperate files following instructions and then add some style to the list.
+This is an exercise I had to do for my MITxPRO course. I had to make a toDo list with seperate files following instructions and then add some style to the list.
 
 ## How to run
 
-Load the url in your browser 
+Run an http server to load the files 
+
+Load the URL in th browser
 
 
 ## Roadmap of future improvements 

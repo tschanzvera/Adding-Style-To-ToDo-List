@@ -12,7 +12,7 @@ Load the url in your browser
 
 ## Roadmap of future improvements 
 
-I would like to make the eye blink when I click on
+I would like to add more style and a button that would make the item that I add either red or blue depending on its importance.
 
 ## support
 

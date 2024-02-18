@@ -3,7 +3,7 @@
 
 ## Description
 
-This is an exercise I had to do for my MITxPRO course. I had to make a toDo list with seperate files following instructions and then add some style to the list. I also added a navbar with a dropdown for the regular weekly todos.
+This is an exercise I had to do for my MITxPRO course. I had to make a toDo list with seperate files following instructions and then add some style to the list. I also added a navigation bar with a dropdown for the regular weekly todos.
 
 ## How to run
 
